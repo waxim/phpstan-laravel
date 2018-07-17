@@ -1,5 +1,5 @@
 {
-    "name": "weebly/phpstan-laravel",
+    "name": "waxim/phpstan-laravel",
     "license": "BSD-2-Clause",
     "description": "Laravel plugins for PHPStan",
     "type": "library",
